@@ -1,16 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 group-title="更新时间",20250214 09:13:43
-https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
-#EXTINF:-1 group-title="更新时间",关于本源(iptv365.org)
-https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-#EXTINF:-1 group-title="更新时间",(新)每日一首
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
-#EXTINF:-1 group-title="更新时间",(年)MovieMusic欣赏
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-#EXTINF:-1 group-title="更新时间",(快)AMC音乐
-https://AMChls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="更新时间",(乐)音乐欣赏
-http://61.221.215.25:8800/hls/58/index.m3u8
+
 #EXTINF:-1 group-title="🧨2025春晚🧨",央视春晚
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 #EXTINF:-1 group-title="🧨2025春晚🧨",粤港澳春晚
